@@ -1,0 +1,30 @@
+## Study Guides/Developer Guides/User Guides Referenced
+
+- Tutorial DOJO Study Guide
+- Jayendra Patil Blogs
+- AWS Compute Optimizer User Guide
+- Amazon CloudWatch User Guide
+- AWS OpsWorks User Guide
+- AWS Key Management Service Developer Guide
+- AWS CodeDeploy User Guide
+- AWS Lambda Developer Guide
+- Amazon CloudFront Developer Guide
+- Amazon ElastiCache ElastiCache for Memcached User Guide
+- Amazon Relational Database Service User Guide
+- Amazon Elastic Container Service Developer Guide
+- Elastic Load Balancing User Guide
+- Amazon Inspector User Guide
+- AWS Elastic Beanstalk Developer Guide
+- Amazon Simple Storage Service Developer Guide
+- AWS Migration Hub User Guide
+- AWS Server Migration Service User Guide
+- Amazon EventBridge User Guide
+- AWS Secrets Manager User Guide
+- AWS CloudFormation User Guide
+- VM Import/Export User Guide
+- Amazon Virtual Private Cloud User Guide
+- Amazon Elastic Compute Cloud User Guide for Linux Instances
+- Amazon Route 53 Developer Guide
+- AWS Direct Connect User Guide
+- AWS Identity and Access Management User Guide
+- AWS Organizations User Guide
