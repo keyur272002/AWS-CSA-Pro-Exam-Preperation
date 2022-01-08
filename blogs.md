@@ -7,6 +7,7 @@
 - [Structured vs Unstructured Data: 5 Key Differences](https://www.xplenty.com/blog/structured-vs-unstructured-data-key-differences/#:~:text=Structured%20data%20is%20often%20stored,in%20a%20variety%20of%20formats.)
 - [Implementing Canary Deployments of AWS Lambda Functions with Alias Traffic Shifting](https://aws.amazon.com/blogs/compute/implementing-canary-deployments-of-aws-lambda-functions-with-alias-traffic-shifting/)
 - [Can I use a single CloudFront web distribution to serve content from multiple origins using multiple behaviors?](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-distribution-serve-content/)
+- [Hosting S3 Static Website using CloudFront with OAI](https://code.eidorian.com/aws/2020/02/08/cloudfront-s3-static-website-with-oai.html)
 - [Best Practices: Managing and Deploying Apps and Cookbooks](https://docs.aws.amazon.com/opsworks/latest/userguide/best-deploy.html)
 - [High Performance Computing](https://aws.amazon.com/hpc/)
 - [AWS Server Migration Service Adds Support for Migrating Larger Data Volumes](https://aws.amazon.com/about-aws/whats-new/2018/09/aws-server-migration-service-adds-support-for-migrating-larger-data-volumes/)
